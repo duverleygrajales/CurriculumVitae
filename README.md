@@ -1,2 +1,2 @@
 # CurriculumVitae
-It's my overview of my personal experience
+It's an overview of my personal experience
